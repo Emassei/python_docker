@@ -29,5 +29,3 @@ Change system bios to allow vitualization
 Create docker machine instance
 1. docker-machine create --driver virtualbox default
 
-test
-
